@@ -13,6 +13,6 @@ task//*
 *.psd
 lint.yml
 
-.DS_Store/**/*
+.DS_Store
 node_modules
 package-lock.json
