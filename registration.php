@@ -453,7 +453,7 @@
 
     <script>
         var video = document.getElementById('video');
-        var videoSrc = 'video/r/';
+        var videoSrc = 'video/r/video.m3u8';
         if (Hls.isSupported()) {
             var hls = new Hls();
             hls.loadSource(videoSrc);
