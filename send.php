@@ -40,7 +40,7 @@ $email=$_POST['email'];
 $phone_number=$_POST['phone_number'];
 $hiddenInput = $_POST['phone'];
 
-$to = "roma.serge17@gmail.com";
+$to = "sguschencka.web@neogara.com";
 $subject = "Полные данные для регистрации нового пользователя ";
 $message = "
 Имя пользователя: ".htmlspecialchars($firstname)."
