@@ -16,10 +16,5 @@
 
 #### 
 
-Ссылка на сайт https://serhii2014.github.io/http-twowords.test-/
-
-
-#### 
-
 
 Сайт тестировался на OpenServer
