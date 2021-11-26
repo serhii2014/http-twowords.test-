@@ -14,8 +14,8 @@ $message = "
 Фамилия пользователя: ".htmlspecialchars($lastname)."
 Почта пользователя: ".htmlspecialchars($email)."
 Телефон: $hiddenInput";
-mail ($to, $subject, $message, $headers);
-header('Location: http://twowords.test/thanks.php');
+mail ($to, $subject, $message);
+header('Location:/thanks.php');
 exit();
 ?>
 
